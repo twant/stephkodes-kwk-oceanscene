@@ -104,7 +104,7 @@ top2: 80
 function setup (){
 createCanvas(windowWidth, windowHeight);
 
-  song = loadSound('Ocean_Waves-Mike_Koenig-980635527.mp3');
+  song = loadSound("Ocean_Waves-Mike_Koenig-980635527.mp3");
 }
 
 
